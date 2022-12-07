@@ -1,0 +1,5 @@
+<?php
+
+    echo lcfirst('London');
+
+?>
